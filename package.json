@@ -14,8 +14,6 @@
     "@supabase/supabase-js": "^2.100.0",
     "@tailwindcss/vite": "^4.2.2",
     "@uiw/react-iframe": "^1.0.4",
-    "dotenv": "^17.4.1",
-    "env": "^0.0.2",
     "lucide-react": "^1.0.0-rc.1",
     "react": "^19.2.4",
     "react-browser-frame": "^1.0.9",
