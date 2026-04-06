@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import { Sparkles, PanelTop, Code, Rocket } from "lucide-react";
 import Header from "../components/Header/Header";
 import { getPageThemeClasses } from "../services/theme/themes";
 import DemoGIF from "../assets/cdcc5c28ceb8fa917448ccc908b21d65.gif";
