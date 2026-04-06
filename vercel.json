@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/main",
+      "destination": "/"
+    },
+    {
+      "source": "/success",
+      "destination": "/"
+    }
+  ]
+}
